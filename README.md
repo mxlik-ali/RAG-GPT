@@ -73,12 +73,6 @@ In Terminal 2:
 ```
 python src\raggpt_app.py
 ```
-5. Chat with your documents.
-
-**YouTube video: **[Link](https://www.youtube.com/watch?v=1FERFfut4Uw&t=3s)
-
-**Slides:** [Link](https://github.com/Farzad-R/LLM-Zero-to-Hundred/blob/master/presentation/presentation.pdf)
-
 Extra read:
 - [GPT model](https://platform.openai.com/docs/models/overview) 
 - [Gradio](https://www.gradio.app/guides/quickstart)
